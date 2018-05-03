@@ -1,0 +1,10 @@
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\DAL\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\DAL\obj\Debug\DAL.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\DAL\obj\Debug\DAL.pdb
+G:\ITHelpDesk\DAL\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+G:\ITHelpDesk\DAL\obj\Debug\DAL.dll
+G:\ITHelpDesk\DAL\obj\Debug\DAL.pdb
+G:\ITHelpDesk\DAL\bin\Debug\DAL.dll
+G:\ITHelpDesk\DAL\bin\Debug\DAL.pdb
+G:\ITHelpDesk\DAL\bin\Debug\Entity.dll
+G:\ITHelpDesk\DAL\bin\Debug\Entity.pdb

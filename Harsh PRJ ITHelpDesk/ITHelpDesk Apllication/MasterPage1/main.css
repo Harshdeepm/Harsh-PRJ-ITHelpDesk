@@ -1,0 +1,110 @@
+﻿body, p, ul, li, div, dl, dd, dt, ol, h1, h2, h3, h4, h5, h6, pre, form, fieldset, textarea, block, img {
+    padding: 0;
+    margin: 0;
+}
+/*body*/
+.body {
+    background-color: black;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+/*page*/
+.wrapper {
+    width: 1350px;
+    margin: auto;
+}
+/*Home page*/
+.content {
+    width: 100%;
+    background-color: rgb(255,255,255);
+    border: 1px solid rgb(245, 208, 142);
+    border-radius: 15px,15px,15px,15px;
+    float: right;
+    margin-top: auto;
+    margin-bottom: 8px;
+    min-height: 400px;
+}
+/*menu*/
+.menu {
+    background-color: black;
+    width: 100%;
+    margin: 0px 0px 10px;
+    padding: 0px;
+    height: 40px;
+    color: rgb(243,243,243);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.navigation_first_item {
+    border-left: 0px;
+    /*-moz-border-radius: 5px 0 0 5px;
+        -webkit-border-radius/:5px 0 0 5px*;
+
+*/
+    border-radius: 5px 0 05px;
+}
+
+.navitem_s {
+    float: left;
+    border-right: 1px solid rgb(10,85,125);
+    border-left: 1px solid rgb(67,153,200);
+    height: 50px;
+    background-color: rgb(14,79,114);
+}
+
+.menu ul {
+}
+
+    .menu ul li {
+        font-family: Consolas;
+        float: left;
+        display: block;
+        list-style: square;
+        border-right: 1px solid rgb(10,85,125);
+        border-left: 1px solid rgb(67,153,200);
+    }
+
+.menuulli.navigation_first_item:hover {
+    border-radius: 5px 0px 0px 5px;
+}
+
+.menu ul li a {
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 2;
+    padding: 8px 20px;
+    color: rgb(255,255,255);
+    text-decoration: none;
+}
+
+.menu ul li:hover {
+    background-color: rgb(14,79,114);
+    border-right: 1px solid rgb(14,89,130);
+}
+
+.clear {
+    clear: both;
+}
+
+.h3 {
+    font-family: Arial;
+    text-align: center;
+    text-decoration-color: navy;
+}
+
+/*footer*/
+.footer {
+    font: normal;
+    font-family: 'Agency FB';
+    height: 35px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: rgb(355, 355, 355);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.footerh2 {
+    padding: 15px;
+    text-align: center;
+}

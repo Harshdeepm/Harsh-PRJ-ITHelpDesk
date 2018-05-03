@@ -1,0 +1,5 @@
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\Entity\bin\Debug\Entity.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\Entity\bin\Debug\Entity.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\Entity\obj\Debug\Entity.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\Entity\obj\Debug\Entity.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

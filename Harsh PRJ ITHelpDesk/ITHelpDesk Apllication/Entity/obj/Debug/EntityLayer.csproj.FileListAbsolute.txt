@@ -1,0 +1,5 @@
+G:\ITHelpDesk\Entity\bin\Debug\Entity.dll
+G:\ITHelpDesk\Entity\bin\Debug\Entity.pdb
+G:\ITHelpDesk\Entity\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+G:\ITHelpDesk\Entity\obj\Debug\Entity.dll
+G:\ITHelpDesk\Entity\obj\Debug\Entity.pdb

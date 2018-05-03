@@ -1,0 +1,42 @@
+C:\Users\DARSHAN\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\bin\MasterPage1.dll
+C:\Users\DARSHAN\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\bin\MasterPage1.pdb
+C:\Users\DARSHAN\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\obj\Debug\MyMasterPage.csprojResolveAssemblyReference.cache
+C:\Users\DARSHAN\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\obj\Debug\MasterPage1.dll
+C:\Users\DARSHAN\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\obj\Debug\MasterPage1.pdb
+E:\Asignments (Prudencys)\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\bin\MasterPage1.dll
+E:\Asignments (Prudencys)\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\bin\MasterPage1.pdb
+E:\Asignments (Prudencys)\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\obj\Debug\MyMasterPage.csprojResolveAssemblyReference.cache
+E:\Asignments (Prudencys)\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\obj\Debug\MasterPage1.dll
+E:\Asignments (Prudencys)\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\obj\Debug\MasterPage1.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\bin\MasterPage1.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\bin\MasterPage1.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\obj\Debug\MyMasterPage.csprojResolveAssemblyReference.cache
+E:\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\obj\Debug\MasterPage1.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1\MasterPage1\obj\Debug\MasterPage1.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\MasterPage1\bin\MasterPage1.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\MasterPage1\bin\MasterPage1.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\MasterPage1\obj\Debug\MyMasterPage.csprojResolveAssemblyReference.cache
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\MasterPage1\obj\Debug\MasterPage1.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\MasterPage1\obj\Debug\MasterPage1.pdb
+G:\ITHelpDesk\MasterPage1\obj\Debug\MyMasterPage.csprojResolveAssemblyReference.cache
+G:\ITHelpDesk\MasterPage1\obj\Debug\MasterPage1.dll
+G:\ITHelpDesk\MasterPage1\obj\Debug\MasterPage1.pdb
+G:\ITHelpDesk\MasterPage1\bin\MasterPage1.dll
+G:\ITHelpDesk\MasterPage1\bin\MasterPage1.pdb
+G:\ITHelpDesk\MasterPage1\bin\BAL.dll
+G:\ITHelpDesk\MasterPage1\bin\Entity.dll
+G:\ITHelpDesk\MasterPage1\bin\DAL.dll
+G:\ITHelpDesk\MasterPage1\bin\BAL.pdb
+G:\ITHelpDesk\MasterPage1\bin\Entity.pdb
+G:\ITHelpDesk\MasterPage1\bin\DAL.pdb
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\MasterPage1.dll
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\MasterPage1.pdb
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\BAL.dll
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\Entity.dll
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\DAL.dll
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\BAL.pdb
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\Entity.pdb
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\bin\DAL.pdb
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\obj\Debug\MyMasterPage.csprojResolveAssemblyReference.cache
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\obj\Debug\MasterPage1.dll
+E:\Harsh PRJ ITHelpDesk\ITHelpDesk\MasterPage1\obj\Debug\MasterPage1.pdb

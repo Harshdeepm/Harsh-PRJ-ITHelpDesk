@@ -1,0 +1,5 @@
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\bin\Debug\BAL.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\bin\Debug\BAL.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\obj\Debug\BAL.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\obj\Debug\BAL.pdb
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\obj\Debug\BAL.dll
+E:\Harsh PRJ ITHelpDesk\MasterPage1 - Copy\BAL\obj\Debug\BAL.pdb
+G:\ITHelpDesk\BAL\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+G:\ITHelpDesk\BAL\obj\Debug\BAL.dll
+G:\ITHelpDesk\BAL\obj\Debug\BAL.pdb
+G:\ITHelpDesk\BAL\bin\Debug\BAL.dll
+G:\ITHelpDesk\BAL\bin\Debug\BAL.pdb
+G:\ITHelpDesk\BAL\bin\Debug\DAL.dll
+G:\ITHelpDesk\BAL\bin\Debug\Entity.dll
+G:\ITHelpDesk\BAL\bin\Debug\DAL.pdb
+G:\ITHelpDesk\BAL\bin\Debug\Entity.pdb

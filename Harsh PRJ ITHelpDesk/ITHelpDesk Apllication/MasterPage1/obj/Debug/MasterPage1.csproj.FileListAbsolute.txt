@@ -1,0 +1,5 @@
+c:\users\darshan\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\bin\MasterPage1.dll
+c:\users\darshan\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\bin\MasterPage1.pdb
+c:\users\darshan\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\obj\Debug\MasterPage1.csprojResolveAssemblyReference.cache
+c:\users\darshan\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\obj\Debug\MasterPage1.dll
+c:\users\darshan\documents\visual studio 2012\Projects\MasterPage1\MasterPage1\obj\Debug\MasterPage1.pdb
